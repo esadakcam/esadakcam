@@ -28,7 +28,7 @@ Hi, I am Esad👋
 
 <p align="middle">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="FastApi" width="40" height="40"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="FastApi" width="40" height="40"> 
