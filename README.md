@@ -1,6 +1,5 @@
 Hi, I am Esad👋
 - 💻 I'm a Software Engineer 
-- 🔭 I’m currently working as a Backend Engineer  
 - 🌱 I’m currently learning Java, Kotlin and containerization technologies 
 - ⚡ Fun fact: I like to play chess
 
