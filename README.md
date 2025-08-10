@@ -8,7 +8,7 @@ Hi, I am Esad👋
 <h3 align="left">Connect with me:</h3>
 <ul style="display: flex; list-style: none; gap: 10px; padding: 0; margin: 0; align-items: center;">
   <li><a href="https://esadakcam.dev">esadakcam.dev</a></li>
-  <li><a href="mailto:mehmed@esadakcam.dev">m.esadakcam@hotmail.com</a></li>
+  <li><a href="mailto:mehmed@esadakcam.dev">mehmed@esadakcam.dev</a></li>
   <li style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/esadakcam/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Esad Akçam"/>
