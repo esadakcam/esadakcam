@@ -47,7 +47,4 @@ Hi, I am Esad👋
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="K8s" width="40" height="40"> 
 </p>
 <hr>
-
-<p align="middle">&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakcam&show_icons=true&locale=en&layout=compact" alt="Esad Akçam" /><br>
-</p>
 <br>
